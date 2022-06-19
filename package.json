@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node  --experimental-fetch index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "jsdom": "^20.0.0",
+    "node-fetch": "^3.2.6"
+  }
+}
